@@ -1,2 +1,4 @@
 # Counter
-the function counts a specific chr in a string.
+a question from a job interview.
+
+the function gets a number in which 0 represent a whole cube and 1 a broken one, and counts the broken cubes.
